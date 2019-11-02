@@ -1,0 +1,10 @@
+var a = 10;
+document.write("Result:<br/>"+"The value of a is  "+a+"<br/>...................................<br/>");
+var b = ++a;
+document.write("The value of ++a is "+b+"<br/>"+"Now the vale of a is "+a+"<br/><br/>");
+var d = a++;
+document.write("The value of a++ is "+d+"<br/>"+"Now the vale of a is "+a+"<br/><br/>");
+var e = --a;
+document.write("The value of --a is "+e+"<br/>"+"Now the vale of a is "+a+"<br/><br/>");
+var f = a--;
+document.write("The value of a-- is "+f+"<br/>"+"Now the vale of a is "+a+"<br/><br/>");
